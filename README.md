@@ -1,7 +1,7 @@
 #Projeto Price
 
 #Para executar configure as dependências
-'npm i'
+'npm install ou yarn install'
 
 #Depois
-'npm start'
+'npm start ou yarn start'
